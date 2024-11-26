@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/TanmayKJha/TanmayKJha/blob/main/githubBanner.jpeg)
+[![MasterHead](https://github.com/TanmayKJha/TanmayKJha/blob/main/gitbanner1.gif)
 <h1 align="center">Hi I'm Tanmay</h1>
 <h3 align="center">I have experience building scalable web applications and working on deep learning and IoT projects</h3>
 <img align="right" alt="Problem Solving" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
