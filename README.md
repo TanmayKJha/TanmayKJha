@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tanmay-kumar-jha-0b179322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmay-kumar-jha-0b179322a/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/tanmaykjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/tanmaykjha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/tanmaykumarjha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tanmaykumarjha/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/TanmayKumarJha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tanmaykumarjha/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
